@@ -5,7 +5,7 @@
 	vertical-align:baseline;
 	margin:0;
 	padding:0;
-	-webkit-box-sizing: border-box; 
+	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
@@ -75,8 +75,8 @@ h3 {
   margin:0 0 20px;
 }
 
-/* 8 Column Grid 
------------------------------------------------------------------------------ 
+/* 8 Column Grid
+-----------------------------------------------------------------------------
 
 Span 1:    9.875%
 Span 2:    22.75%
@@ -182,7 +182,7 @@ Span 8:    100%
 #menu li {
   display:block;
   float:left;
-  width:32.666%;
+  width:49.5%;
   margin-left:1%;
   position:relative;
 }
